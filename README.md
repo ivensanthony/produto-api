@@ -1,8 +1,5 @@
 # produto-api
-📄 README.md
-markdown
-Copiar código
-# 🛒 Produto API - Spring Boot + PostgreSQL + Docker
+# Produto API - Spring Boot + PostgreSQL + Docker
 
 Este projeto é uma API RESTful desenvolvida com *Spring Boot, que permite o cadastro, consulta, atualização e exclusão de produtos. A aplicação está integrada ao **PostgreSQL via Docker, utilizando **JPA* para persistência.
 
