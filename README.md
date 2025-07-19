@@ -89,7 +89,7 @@ DELETE	/produtos/{id}	- Remove um produto por ID
 
 ## Exemplo de JSON para POST/PUT
 Body/json
-Copiar código
+
 {
   "nome": "Monitor",
   "descricao": "Monitor LED 24 polegadas",
